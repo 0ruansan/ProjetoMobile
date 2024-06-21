@@ -174,3 +174,5 @@ class MovieAdapter(private val movies: List<Movie>) : RecyclerView.Adapter<Movie
 }
 
 
+//TESTANDO
+
