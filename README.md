@@ -13,6 +13,10 @@
 - *Top Bar:* Criação de uma barra superior com funcionalidades específicas.
 - *Animação simples:* Implementação de uma animação para melhorar a interação do usuário.
 
+## Capturas de tela
+
+![Tela]([https://i.imgur.com/CeSKZ9q.jpeg])
+
 ## Integrantes do grupo
 
 - *Matheus Vitorino Ribeiro*
