@@ -15,7 +15,7 @@
 
 ## Capturas de tela
 
-![Tela]([https://i.imgur.com/CeSKZ9q.jpeg])
+![Funcionalidade 1]([link_para_gif_1](https://i.imgur.com/CeSKZ9q.jpeg))
 
 ## Integrantes do grupo
 
