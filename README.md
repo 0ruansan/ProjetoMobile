@@ -1,6 +1,6 @@
 # QueeNoplex
 
-![Logo](link_para_logo)
+![Logo](https://i.imgur.com/THEOhSY.png)
 
 ## Funcionalidades e descrições
 
